@@ -13,25 +13,21 @@ Um aplicativo para gerenciar produtos e pedidos com autenticação de usuários.
 - Responsivo para dispositivos móveis
 
 ### Tela de Login
-![Tela de Login](./screenshots/login.png)
 <p aling="center">
    <img width="460" height="300" src="./public/to_readme/screenshot0.png">
 </p>
 
 ### Dashboard - Listagem de Produtos
-![Dashboard de Produtos]
 <p aling="center">
    <img width="460" height="300" src="./public/to_readme/screenshots1.png">
 </p>
 
 ### Dashboard - Adicionar Produto
-![Dashboard de adiconar produto]
 <p aling="center">
    <img width="460" height="300" src="./public/to_readme/screenshot4.png">
 </p>
 
 ### Dashboard - Listagem dos Pedidos
-![Dashboard dos Pedidos]
 <p aling="center">
    <img width="460" height="300" src="./public/to_readme/screenshot3.png">
 </p>
@@ -47,4 +43,4 @@ Um aplicativo para gerenciar produtos e pedidos com autenticação de usuários.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/GustavoNesi/Restaurant-Manager.git
